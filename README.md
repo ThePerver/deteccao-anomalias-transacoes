@@ -206,8 +206,8 @@ Este projeto está sob licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
 ## 👨‍💻 Autor
 
 [Seu Nome]  
-Email: seu.email@example.com  
-GitHub: [@seu-usuario](https://github.com/seu-usuario)
+Email: weslleysrocha17@gmail.com 
+GitHub:(https://github.com/ThePerver)
 
 ---
 
